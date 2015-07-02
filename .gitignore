@@ -1,0 +1,36 @@
+
+# Standard Android Studio Ignores
+/.idea
+/.gradle
+local.properties
+*.iml
+build
+build/*
+
+
+# Specific File Types
+*.apk
+*.ap_
+*.dex
+*.class
+
+# Generated Files
+bin/
+gen/
+
+# OS Specific Crap
+.DS_Store
+Thumbs.db
+
+# Eclipse Stuff
+.classpath
+.project
+
+# Older Project Format Ingores
+/*/out
+/*/*/build
+/*/*/production
+*.iws
+*.ipr
+*~
+*.swp
